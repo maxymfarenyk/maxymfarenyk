@@ -4,9 +4,6 @@ I'm Maxym, a beginner data analyst studying System Analysis at Ivan Franko Natio
 I enjoy working with data using SQL, Pandas, and Excel, and I visualize my work with Power BI and Tableau. I also have strong Python programming skills and experience in developing websites with Django.<br>
 Excited for new challenges and interesting projects! 🚀
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maksymfarenyk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxfar2004@gmail.com) 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
