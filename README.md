@@ -1,6 +1,6 @@
 # About Me:
 Hi! 👋  
-I'm Maxym, a beginner data analyst studying System Analysis at Ivan Franko National University of Lviv.<br>
+I'm Maksym, a beginner data analyst studying System Analysis at Ivan Franko National University of Lviv.<br>
 I enjoy working with data using SQL, Pandas, and Excel, and I visualize my work with Power BI and Tableau. I also have strong Python programming skills and experience in developing websites with Django and Flask.<br>
 Excited for new challenges and interesting projects! 
 
