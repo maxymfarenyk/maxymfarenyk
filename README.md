@@ -2,27 +2,25 @@
 
 | Profile | Contacts & Description |
 | :- | - |
-|- Name: *Maksym Farenyk*<br/>- Age: *21 y.o.*<br/>- Gender: *male*<br/>- Category: *Data Analyst*|- Email: `maxfar2004@gmail.com`<br/>- LinkedIn: [*link*](https://www.linkedin.com/in/maksymfarenyk/)<br/>- Location: 🇺🇦 <br/>- Status: *Open to work*|
+|- Name: *Maksym Farenyk*<br/>- Age: *21 y.o.*<br/>- Gender: *male*<br/>- Category: *Python Developer/Data Analyst*|- Email: `maxfar2004@gmail.com`<br/>- LinkedIn: [*link*](https://www.linkedin.com/in/maksymfarenyk/)<br/>- Location: 🇺🇦 <br/>- Status: *Open to work*|
 
-# Stack & Experience
+## Tech Stack
 
-My experience is described down below
-
-## Languages table
-
-| Language | Level | Tech |
-| :- | :-: | - |
-| `Python` | 3 years | Pandas, Numpy, Matplotlib, Seaborn, Django, Flask |
-| `SQL` | 3 years | PostgreSQL, MySQL, SQLite |
-| `Power BI` | 1 year | DAX, Power Query |
-| `Excel` | 3 years | Pivot Tables, Xlookup |
+| Skill | Details |
+| -- | -- |
+| `Backend` | Python (FastAPI, Django, Flask), Kotlin (Spring Boot) |
+| `SQL` | PostgreSQL, Oracle DB, MySQL, SQLite |
+| `NoSQL` | Mongo DB |
+| `Frontend` | HTML, CSS, JS (Angular, basic React knowledge) |
+| `Tools` | Git, Github, Docker, Postman, Swagger, Linux (basic knowledge) |
+| `Programming Fundamentals` | Algorithms, Data Structures, OOP, Async Programming |
 
 ## Additional parts of stack:
+* `Pandas`
+* `Power BI`
 * `UML` (Use-Case, State, Class)
-* `Tableau`
-* `NoSQL` (Mongo)
 
 # Spoken languages:
 
--  `English`: Upper-Intermediate
+-  `English`: B2 writing, B1 speaking
 -  `Ukrainian`: Native
